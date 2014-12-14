@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/x5/proprietary/vendor/lib/liblisten.so:system/vendor/lib/liblisten.so \
     vendor/lge/x5/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/lge/x5/proprietary/vendor/lib/soundfx/libqcvirt.so:system/lib/soundfx/libqcvirt.so \
+    vendor/lge/x5/proprietary/lib/libemotionalled_jni.so:system/lib/libemotionalled_jni.so \
     vendor/lge/x5/proprietary/vendor/lib/liblistensoundmodel.so:system/vendor/lib/liblistensoundmodel.so \
     vendor/lge/x5/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/x5/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
