@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES := \
 PRODUCT_COPY_FILES += \
     vendor/lge/x5/proprietary/app/TimeService.apk:system/app/TimeService.apk \
     vendor/lge/x5/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/lge/d620/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/lge/x5/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/x5/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/lge/x5/proprietary/etc/ACDB/Bluetooth_cal.acdb:system/etc/ACDB/Bluetooth_cal.acdb \
     vendor/lge/x5/proprietary/etc/ACDB/General_cal.acdb:system/etc/ACDB/General_cal.acdb \
