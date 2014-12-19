@@ -261,7 +261,7 @@ vendor/lge/x5/proprietary/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/lge/x5/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/lge/x5/proprietary/vendor/lib/libmm-hdcpmgr.so:system/vendor/lib/libmm-hdcpmgr.so \
     vendor/lge/x5/proprietary/vendor/lib/libmmhttpstack.so:system/vendor/lib/libmmhttpstack.so \
-    vendor/lge/x5/proprietary/vendor/lib/libmmipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
+    vendor/lge/x5/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
     vendor/lge/x5/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/lge/x5/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
     vendor/lge/x5/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
