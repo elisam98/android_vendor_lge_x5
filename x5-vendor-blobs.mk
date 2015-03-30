@@ -70,9 +70,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/x5/proprietary/etc/telephony.xml:system/etc/telephony.xml \
     vendor/lge/x5/proprietary/etc/vold.fstab:system/etc/vold.fstab \
     vendor/lge/x5/proprietary/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
+    vendor/lge/x5/proprietary/firmware/wcd9306/wcd9306_anc.bin:system/etc/firmware/wcd9306/wcd9306_anc.bin \
+    vendor/lge/x5/proprietary/firmware/wcd9306/wcd9306_mbhc.bin:system/etc/firmware/wcd9306/wcd9306_mbhc.bin \
     vendor/lge/x5/proprietary/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/lge/x5/proprietary/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
-vendor/lge/x5/proprietary/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+    vendor/lge/x5/proprietary/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/lge/x5/proprietary/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/lge/x5/proprietary/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/lge/x5/proprietary/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
