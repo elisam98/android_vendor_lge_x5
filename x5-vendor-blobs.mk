@@ -377,6 +377,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/x5/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/lge/x5/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
     vendor/lge/x5/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
-
-# Gonna try without this for now
-# vendor/lge/x5/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/lge/x5/proprietary/lib/libril.so:system/lib/libril.so
